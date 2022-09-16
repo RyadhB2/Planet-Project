@@ -1,0 +1,1 @@
+Very simple small code using csv-parser and fs module with nodeJS, parsing data on a csv file provided by NASA and applying filters to find habitable planets using certains conditions.
